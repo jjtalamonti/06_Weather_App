@@ -25,6 +25,10 @@ This project was designed to give the user an idea of what the forecasted weathe
 - When the user clicks the city's name button
 - Then the current weather and five day forecast is displayed for that city.
 
+
+https://user-images.githubusercontent.com/104233323/173725089-77925880-e28c-4793-b55b-c598ebd1a022.mp4
+
+
 ## License
 
 - This project is licensed under MIT
